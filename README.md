@@ -1,5 +1,8 @@
 # Basic Backend Interview Question
 
+### INTERVIEWER NOTES
+- Confirm that correct status codes were returned
+
 ### Task
 
 Build a backend API server in TypeScript that managers a registry of books. 
