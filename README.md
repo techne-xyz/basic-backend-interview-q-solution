@@ -32,4 +32,4 @@ const books: Book[] = [];
 - What database might you use? How would you interact with that database from TypeScript?
 
 ### Bonus 2
-- Write a background worker that periodically validates if each book exists in the real world
+- Write a background worker that periodically validates if each book currently in the array exists in the real world.
